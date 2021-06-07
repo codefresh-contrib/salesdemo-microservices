@@ -4,7 +4,7 @@
 This is an example Go application that exposes Prometheus metrics.
 It is compiled using Codefresh.
 
-![Graphana Dashboard](graphana/graphana-dashboard.png)
+![Grafana Dashboard](grafana/grafana-dashboard.png)
 
 Original code modified from https://gabrieltanner.org/blog/collecting-prometheus-metrics-in-golang
 
@@ -77,7 +77,7 @@ There is also a [codefresh.yaml](canary-manual-approval/codefresh.yaml) for easy
 
 More details can be found in [Codefresh documentation](https://codefresh.io/docs/docs/ci-cd-guides/progressive-delivery/)
 
-You can also import [graphana/graphana-dashboard.json](graphana/graphana-dashboard.json) as a premade dashboard
+You can also import [grafana/grafana-dashboard.json](grafana/grafana-dashboard.json) as a premade dashboard
 
 
 Enjoy!
